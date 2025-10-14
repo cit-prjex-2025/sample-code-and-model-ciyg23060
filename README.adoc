@@ -1,37 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/k8LX84VP)
-:encoding: utf-8
-:lang: ja
-:scripts: cjk
-:media: prepress
-:linkcss:
-:stylesdir: css
-:stylesheet: mystyle.css
-:sectanchors:
-:autofit-option:
-:experimental:
-:support-uri:
-:original-support-uri:
-:twoinches: width='360'
-:full-width: width='100%'
-:three-quarters-width: width='75%'
-:two-thirds-width: width='66%'
-:half-width: width='50%'
-:half-size:
-:one-thirds-width: width='33%'
-:one-quarters-width: width='25%'
-:thumbnail: width='60'
-:imagesdir: images
-:sourcesdir: codes
-:icons: font
-:hide-uri-scheme!:
-:figure-caption: 図
-:example-caption: リスト
-:table-caption: 表
-:appendix-caption: 付録
-:xrefstyle: short
-:section-refsig:
-:chapter-refsig:
-
 
 = サンプルモデルの動作とモデル図の作成
 
